@@ -37,7 +37,7 @@ PureTools is a growing collection of free online utilities covering finance, hea
 | [Percentage Calculator](https://puretools.io/tools/percentage-calculator/) | Percentage of a number, percentage change and reverse percentage |
 | [Crypto Calculator](https://puretools.io/tools/crypto-calculator/) | Cryptocurrency profit, loss and position sizing |
 | [Invoice Factoring Calculator](https://puretools.io/tools/invoice-factoring-calculator/) | Net proceeds after invoice factoring fees |
-| [Crypto Strategy Tool](https://puretools.io/tools/crypto-strategy/) | Risk and position sizing for cryptocurrency trades |
+| [Crypto DCA Calculator](https://puretools.io/tools/crypto-dca-calculator/) | Reality-check crypto price targets against major benchmarks, optimize DCA average buy price and recovery strategy |
 
 ### Health (5 tools)
 
@@ -57,9 +57,18 @@ PureTools is a growing collection of free online utilities covering finance, hea
 | [Video to MP3](https://puretools.io/tools/video-to-mp3/) | Extract MP3 audio from any video — 128/192/320 kbps, custom time range |
 | [Video Merger](https://puretools.io/tools/video-merger/) | Combine multiple MP4/WebM clips into one file — drag to reorder |
 | [Video Converter](https://puretools.io/tools/video-converter/) | Convert videos to MP4 or WebM — choose resolution and quality |
-| [Video Trimmer](https://puretools.io/tools/video-trimmer/) | Cut video to a precise range with a visual filmstrip timeline and draggable handles |
+| [Video Cutter](https://puretools.io/tools/video-cutter/) | Cut video to a precise range with a visual filmstrip timeline and draggable handles |
 
 All video tools: **no upload, no watermark, works offline.** Supports MP4, MOV, AVI, WebM, MKV. Max input 500 MB.
+
+### Audio (2 tools) — powered by FFmpeg.wasm
+
+| Tool | Description |
+|---|---|
+| [MP3 Compressor](https://puretools.io/tools/mp3-compressor/) | Reduce audio file size — platform presets (WhatsApp 16 MB, Discord 25 MB), custom size or direct bitrate 64–320 kbps. Supports MP3, M4A, WAV, OGG, FLAC |
+| [Audio Converter](https://puretools.io/tools/audio-converter/) | Convert audio to MP3, AAC/M4A, OGG, FLAC or WAV — control bitrate and sample rate. Supports MP3, M4A, WAV, OGG, FLAC |
+
+All audio tools: **no upload, no watermark, works offline.**
 
 ### Images (8 tools)
 
@@ -92,7 +101,7 @@ All video tools: **no upload, no watermark, works offline.** Supports MP4, MOV, 
 | [Base64 Encoder & Decoder](https://puretools.io/tools/base64-encoder/) | Encode and decode Base64 strings and files |
 | [Color Converter](https://puretools.io/tools/color-converter/) | Convert between HEX, RGB, HSL and HSV |
 | [CSS Gradient Generator](https://puretools.io/tools/css-gradient-generator/) | Visual gradient builder with live CSS output |
-| [Unix Timestamp Converter](https://puretools.io/tools/unix-timestamp-converter/) | Convert Unix timestamps to human-readable dates and back |
+| [Epoch Converter](https://puretools.io/tools/epoch-converter/) | Convert Unix timestamps to readable dates in 8 timezones, or dates to timestamps — live clock, ISO 8601, auto-detect seconds vs milliseconds |
 
 ### Security (2 tools)
 
